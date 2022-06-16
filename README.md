@@ -1,2 +1,2 @@
 # jingjiyunhai.github.io
-This is JINGJIYUNHAI hexo
+这是荆棘云海的hexo博客站
